@@ -3,12 +3,12 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=My&show_icons=true&theme=default&hide_border=true" alt="My GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=My&layout=compact&theme=default&hide_border=true" alt="My Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dhaneshbb&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhaneshbb&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=My&theme=default&hide_border=true&area=true&color=6C63FF&line=6C63FF&point=000000" alt="My Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhaneshbb&theme=default&hide_border=true&area=true&color=6C63FF&line=6C63FF&point=000000" alt="Activity" />
 </div>
 
 
