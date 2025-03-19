@@ -21,32 +21,35 @@
 
 ## Core Competencies
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1.5rem; padding: 1.5rem; background: #FFFFFF; border-radius: 12px; margin: 2rem 0; border: 1px solid #E5E5E5;">
-  <div style="padding: 1rem;">
-    <h3 style="color: #6C63FF; margin-top: 0; font-weight: 600;">Machine Learning</h3>
-    <ul style="list-style-type: none; padding-left: 1rem; color: #333333;">
-      <li>▶ Predictive Modeling</li>
-      <li>▶ Deep Learning</li>
-      <li>▶ Ensemble Methods</li>
-    </ul>
-  </div>
-  <div style="padding: 1rem;">
-    <h3 style="color: #6C63FF; margin-top: 0; font-weight: 600;">Data Engineering</h3>
-    <ul style="list-style-type: none; padding-left: 1rem; color: #333333;">
-      <li>▶ ETL Pipelines</li>
-      <li>▶ Feature Engineering</li>
-      <li>▶ Big Data Processing</li>
-    </ul>
-  </div>
-  <div style="padding: 1rem;">
-    <h3 style="color: #6C63FF; margin-top: 0; font-weight: 600;">Cloud Deployment</h3>
-    <ul style="list-style-type: none; padding-left: 1rem; color: #333333;">
-      <li>▶ AWS Architecture</li>
-      <li>▶ Docker Containers</li>
-      <li>▶ CI/CD Pipelines</li>
-    </ul>
-  </div>
-</div>
+<table>
+  <tr>
+    <td style="padding: 1rem;">
+      <h3 style="color: #6C63FF; font-weight: 600;">Machine Learning</h3>
+      <ul style="list-style: none; padding-left: 1rem; color: #333;">
+        <li>▶ Predictive Modeling</li>
+        <li>▶ Deep Learning</li>
+        <li>▶ Ensemble Methods</li>
+      </ul>
+    </td>
+    <td style="padding: 1rem;">
+      <h3 style="color: #6C63FF; font-weight: 600;">Data Engineering</h3>
+      <ul style="list-style: none; padding-left: 1rem; color: #333;">
+        <li>▶ ETL Pipelines</li>
+        <li>▶ Feature Engineering</li>
+        <li>▶ Big Data Processing</li>
+      </ul>
+    </td>
+    <td style="padding: 1rem;">
+      <h3 style="color: #6C63FF; font-weight: 600;">Cloud Deployment</h3>
+      <ul style="list-style: none; padding-left: 1rem; color: #333;">
+        <li>▶ AWS Architecture</li>
+        <li>▶ Docker Containers</li>
+        <li>▶ CI/CD Pipelines</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 
 
 <details>
@@ -60,37 +63,3 @@
 
   </div>
 </details>
-
-
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" style="padding: 1.5rem; border: 1px solid #E5E5E5; background: #FFFFFF;">
-      <h3 style="margin: 0 0 0.5rem 0;"><a href="https://github.com/dhaneshbb/AutoPricePred" style="color: #6C63FF; text-decoration: none;">AutoPricePred</a></h3>
-      <p style="color: #333333; margin: 0 0 0.5rem 0;">Advanced vehicle valuation system using gradient boosting regression with 94% prediction accuracy</p>
-      <sub style="color: #555555;">Stack: Python • XGBoost • Scikit-learn • Flask</sub>
-    </td>
-    <td width="50%" style="padding: 1.5rem; border: 1px solid #E5E5E5; background: #FFFFFF;">
-      <h3 style="margin: 0 0 0.5rem 0;"><a href="https://github.com/dhaneshbb/HomeLoanDef" style="color: #6C63FF; text-decoration: none;">HomeLoanDef</a></h3>
-      <p style="color: #333333; margin: 0 0 0.5rem 0;">Credit risk assessment model with SHAP value interpretation and automated decision pipelines</p>
-      <sub style="color: #555555;">Stack: LightGBM • Pandas • NumPy • Streamlit</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" style="padding: 1.5rem; border: 1px solid #E5E5E5; background: #FFFFFF;">
-      <h3 style="margin: 0 0 0.5rem 0;"><a href="https://github.com/dhaneshbb/FicZon-Sales-Effectiveness" style="color: #6C63FF; text-decoration: none;">FicZon Sales</a></h3>
-      <p style="color: #333333; margin: 0 0 0.5rem 0;">Sales performance optimization framework with market basket analysis and customer segmentation</p>
-      <sub style="color: #555555;">Stack: PySpark • MLlib • Plotly • Airflow</sub>
-    </td>
-    <td width="50%" style="padding: 1.5rem; border: 1px solid #E5E5E5; background: #FFFFFF;">
-      <h3 style="margin: 0 0 0.5rem 0;"><a href="https://github.com/dhaneshbb/ProtugeseBank" style="color: #6C63FF; text-decoration: none;">Portuguese Bank</a></h3>
-      <p style="color: #333333; margin: 0 0 0.5rem 0;">Bank marketing campaign analysis with survival analysis and lifetime value prediction</p>
-      <sub style="color: #555555;">Stack: Survival Analysis • Cox PH • Matplotlib • SciPy</sub>
-    </td>
-  </tr>
-</table>
-
-
-
-
