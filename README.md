@@ -21,8 +21,8 @@
 
 ## Core Competencies
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem; padding: 1.5rem; background: #FFFFFF; border-radius: 12px; margin: 2rem 0; border: 1px solid #E5E5E5;">
-  <div style="padding: 1rem;">
+<div style="display: flex; flex-wrap: nowrap; overflow-x: auto; gap: 1.5rem; padding: 1.5rem; background: #FFFFFF; border-radius: 12px; margin: 2rem 0; border: 1px solid #E5E5E5;">
+  <div style="flex: 0 0 33%; min-width: 200px; padding: 1rem;">
     <h3 style="color: #6C63FF; margin-top: 0; font-weight: 600;">Machine Learning</h3>
     <ul style="list-style-type: none; padding-left: 1rem; color: #333333;">
       <li>▶ Predictive Modeling</li>
@@ -30,7 +30,7 @@
       <li>▶ Ensemble Methods</li>
     </ul>
   </div>
-  <div style="padding: 1rem;">
+  <div style="flex: 0 0 33%; min-width: 200px; padding: 1rem;">
     <h3 style="color: #6C63FF; margin-top: 0; font-weight: 600;">Data Engineering</h3>
     <ul style="list-style-type: none; padding-left: 1rem; color: #333333;">
       <li>▶ ETL Pipelines</li>
@@ -38,7 +38,7 @@
       <li>▶ Big Data Processing</li>
     </ul>
   </div>
-  <div style="padding: 1rem;">
+  <div style="flex: 0 0 33%; min-width: 200px; padding: 1rem;">
     <h3 style="color: #6C63FF; margin-top: 0; font-weight: 600;">Cloud Deployment</h3>
     <ul style="list-style-type: none; padding-left: 1rem; color: #333333;">
       <li>▶ AWS Architecture</li>
@@ -47,6 +47,7 @@
     </ul>
   </div>
 </div>
+
 
 
 
