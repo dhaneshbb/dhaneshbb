@@ -22,6 +22,19 @@
 
 ---
 
+<h3 align="center">📓 Explore My Notebooks</h3>
+
+<p align="center">
+  <a href="https://nbviewer.org/github/dhaneshbb/" target="_blank">
+    <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="NBViewer Preview" width="120" />
+    <br>
+    <strong>Click here to view my Jupyter Notebooks via NBViewer</strong>
+  </a>
+</p>
+
+
+---
+
 <!-- Tech Stack Badges -->
 <div align="center" style="margin: 2rem 0;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
