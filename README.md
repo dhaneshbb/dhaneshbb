@@ -7,6 +7,27 @@
 
 ---
 
+### 🏅 Kaggle Course Badges
+
+<p>
+  <a href="https://www.kaggle.com/dhaneshbb"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F163e0f27360ae958da99dde2a68f7e00%2FBadge-46.svg?generation=1727468408101916&alt=media" height="60"/></a>
+  <a href="https://www.kaggle.com/dhaneshbb"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F9c37cceb9f493bb678dd909e988b1456%2FBadge-1.svg?generation=1727462477436270&alt=media" height="60"/></a>
+  <a href="https://www.kaggle.com/dhaneshbb"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2Ff0f20d998814e06ca1be06984a5186b1%2FBadge-2.svg?generation=1727462594476185&alt=media" height="60"/></a>
+  <a href="https://www.kaggle.com/dhaneshbb"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F09e1f99bdf3222934ad7769409ec3f6d%2FBadge-26.svg?generation=1727468059623106&alt=media" height="60"/></a>
+  <a href="https://www.kaggle.com/dhaneshbb"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F1e4546d427340e1495b9ee02261e2dc6%2FBadge-34.svg?generation=1727468126171650&alt=media" height="60"/></a>
+  <a href="https://www.kaggle.com/dhaneshbb"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F7567026dd0c594f1193b49a98a976056%2FBadge-35.svg?generation=1727468213893504&alt=media" height="60"/></a>
+  <a href="https://www.kaggle.com/dhaneshbb"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F2df508502fba7fc8937f3847e46b8ec4%2FBadge-29.svg?generation=1727468233931525&alt=media" height="60"/></a>
+  <a href="https://www.kaggle.com/dhaneshbb"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F28e0e70842ce6972f4d68f5b6ecd549a%2FBadge-12.svg?generation=1727462988946700&alt=media" height="60"/></a>
+  <a href="https://www.kaggle.com/dhaneshbb"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F9ca07715376e5949f99c842605c3ee60%2FBadge-18.svg?generation=1727467872971674&alt=media" height="60"/></a>
+  <a href="https://www.kaggle.com/dhaneshbb"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F059c9b5e8bad980032971b42cb35cb10%2FBadge-44.svg?generation=1727468322667890&alt=media" height="60"/></a>
+  <a href="https://www.kaggle.com/dhaneshbb"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2Fbac00bdcf5aa52c077bef4d95da882f3%2FBadge-37.svg?generation=1727468352009252&alt=media" height="60"/></a>
+  <a href="https://www.kaggle.com/dhaneshbb"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F59be06dc5fa3103f7f3d4064730449a4%2FBadge-38.svg?generation=1727468372542689&alt=media" height="60"/></a>
+  <a href="https://www.kaggle.com/dhaneshbb"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F7497cc64368fa8d323dbd46eff514e25%2FBadge-39.svg?generation=1727468387653485&alt=media" height="60"/></a>
+</p>
+
+
+---
+
 <!-- GitHub Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhaneshbb&show_icons=true&theme=default&hide_border=true&count_private=true&locale=en&v=4" alt="GitHub Stats" />
