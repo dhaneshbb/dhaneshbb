@@ -49,22 +49,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 </div>
 
----
-
-<details>
-  <summary style="color: #6C63FF; cursor: pointer;">📫 Contact Information</summary>
-  <div style="margin-top: 1rem;">
-    
-**Dhanesh B.B.**  
-[![Email](https://img.shields.io/badge/Email-dhaneshbb5@gmail.com-blue?style=flat&logo=gmail)](mailto:dhaneshbb5@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/dhanesh-b-b-2a8971225)  
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-lightgrey?style=flat&logo=github)](https://github.com/dhaneshbb)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=flat&logo=kaggle)](https://www.kaggle.com/dhaneshbb)
-
-  </div>
-</details>
-
-
 ### 🏅 Kaggle Course Badges
 
 <p>
@@ -84,3 +68,17 @@
   <a href="https://www.kaggle.com/dhaneshbb"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2Fbd815f5d633db594d07a22a6e3f1067e%2FBadge-43.svg?generation=1727468286042063&alt=media" height="40"/></a>
 </p>
 
+---
+
+<details>
+  <summary style="color: #6C63FF; cursor: pointer;">📫 Contact Information</summary>
+  <div style="margin-top: 1rem;">
+    
+**Dhanesh B.B.**  
+[![Email](https://img.shields.io/badge/Email-dhaneshbb5@gmail.com-blue?style=flat&logo=gmail)](mailto:dhaneshbb5@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/dhanesh-b-b-2a8971225)  
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-lightgrey?style=flat&logo=github)](https://github.com/dhaneshbb)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=flat&logo=kaggle)](https://www.kaggle.com/dhaneshbb)
+
+  </div>
+</details>
