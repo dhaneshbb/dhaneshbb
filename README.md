@@ -26,6 +26,16 @@
 <h3 align="center">📓 Explore My Notebooks</h3>
 
 <p align="center">
+  <a href="https://www.kaggle.com/dhaneshbb/code" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  
+  <a href="https://www.kaggle.com/dhaneshbb/competitions" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Competitions-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://nbviewer.org/github/dhaneshbb/" target="_blank">
     <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="NBViewer Preview" width="120" />
     <br>
