@@ -64,7 +64,6 @@
   </div>
 </details>
 
-## Badges
 
 ### 🏅 Kaggle Course Badges
 
