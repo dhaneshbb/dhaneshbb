@@ -23,7 +23,7 @@
 
 ---
 
-<h3 align="center">📓 Explore My Notebooks</h3>
+<h3 align="center">📓 Explore My Work</h3>
 
 <p align="center">
   <a href="https://www.kaggle.com/dhaneshbb/code" target="_blank">
