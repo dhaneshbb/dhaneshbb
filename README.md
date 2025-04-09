@@ -15,12 +15,6 @@
 
 ---
 
-<!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=dhaneshbb&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&v=1" />
-
-
----
-
 <!-- Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhaneshbb&theme=default&hide_border=true&area=true&color=6C63FF&line=6C63FF&point=000000&v=4" alt="Contribution Graph" />
