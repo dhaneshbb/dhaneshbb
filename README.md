@@ -27,7 +27,7 @@
 
 ---
 
-## 🧠 Core Competencies
+##  Core Competencies
 
 <details>
   <summary style="color: #6C63FF; cursor: pointer;">📫 Contact Information</summary>
