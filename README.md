@@ -1,14 +1,13 @@
+<!-- Header with Greeting -->
+<h3 align="center">👋 Hello there! I'm Dhanesh B.B.</h3>
+
 <div align="center">
-
-  ### 👋 Hello there! I'm Dhanesh B.B.
-
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Certified+Data+Scientist;Data+Science+Consultant;Coordinator" alt="Typing Animation" />
-
 </div>
-
 
 ---
 
+<!-- GitHub Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhaneshbb&show_icons=true&theme=default&hide_border=true&count_private=true&locale=en&v=4" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhaneshbb&layout=compact&theme=default&hide_border=true&cache_seconds=1800&v=4" alt="Top Languages" />
@@ -16,18 +15,21 @@
 
 ---
 
+<!-- GitHub Streak -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=dhaneshbb&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
 ---
 
+<!-- Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhaneshbb&theme=default&hide_border=true&area=true&color=6C63FF&line=6C63FF&point=000000&v=4" alt="Contribution Graph" />
 </div>
 
 ---
 
+<!-- Tech Stack Badges -->
 <div align="center" style="margin: 2rem 0;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
