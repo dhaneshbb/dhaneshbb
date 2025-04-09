@@ -49,6 +49,8 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 </div>
 
+---
+
 ### 🏅 Kaggle Course Badges
 
 <p>
