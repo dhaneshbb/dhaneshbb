@@ -5,14 +5,14 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhaneshbb&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=1800&v=2" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhaneshbb&layout=compact&theme=default&hide_border=true&cache_seconds=1800&v=2" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhaneshbb&show_icons=true&theme=default&hide_border=true&count_private=true&locale=en&v=4" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhaneshbb&layout=compact&theme=default&hide_border=true&cache_seconds=1800&v=4" alt="Top Languages" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhaneshbb&theme=default&hide_border=true&area=true&color=6C63FF&line=6C63FF&point=000000&v=2" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhaneshbb&theme=default&hide_border=true&area=true&color=6C63FF&line=6C63FF&point=000000&v=4" alt="Contribution Graph" />
 </div>
 
 ---
