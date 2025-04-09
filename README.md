@@ -18,9 +18,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhaneshbb&theme=default&hide_border=true&area=true&color=6C63FF&line=6C63FF&point=000000&v=4" alt="Contribution Graph" />
 </div>
 
----
-
-## 📓 Explore My Work
+## Explore My Work
 
 <p align="center">
   <a href="https://nbviewer.org/github/dhaneshbb/" target="_blank">
@@ -51,8 +49,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 </div>
 
----
-
 <details>
   <summary style="color: #6C63FF; cursor: pointer;">📫 Contact Information</summary>
   <div style="margin-top: 1rem;">
@@ -65,8 +61,6 @@
 
   </div>
 </details>
-
----
 
 ## Badges
 
