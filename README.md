@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Certified+Data+Scientist;Data+Science+Consultant;Coordinator" alt="Typing Animation" />
 </div>
 
----
 ## stats 
 
 <!-- GitHub Stats -->
@@ -21,7 +20,7 @@
 
 ---
 
-<h3 align="center">📓 Explore My Work</h3>
+## 📓 Explore My Work
 
 <p align="center">
   <a href="https://nbviewer.org/github/dhaneshbb/" target="_blank">
@@ -41,7 +40,7 @@
   </a>
 </p>
 
----
+
 ## Core Competencies
 
 <!-- Tech Stack Badges -->
@@ -67,8 +66,8 @@
   </div>
 </details>
 
-
 ---
+
 ## Badges
 
 ### 🏅 Kaggle Course Badges
