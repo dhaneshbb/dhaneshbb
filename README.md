@@ -34,6 +34,7 @@
 
 
 ---
+## Core Competencies
 
 <!-- Tech Stack Badges -->
 <div align="center" style="margin: 2rem 0;">
@@ -44,8 +45,6 @@
 </div>
 
 ---
-
-## Core Competencies
 
 <details>
   <summary style="color: #6C63FF; cursor: pointer;">📫 Contact Information</summary>
