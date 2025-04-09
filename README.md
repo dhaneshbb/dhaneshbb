@@ -49,6 +49,8 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 </div>
 
+---
+
 <details>
   <summary style="color: #6C63FF; cursor: pointer;">📫 Contact Information</summary>
   <div style="margin-top: 1rem;">
