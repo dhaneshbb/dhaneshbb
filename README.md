@@ -26,6 +26,14 @@
 <h3 align="center">📓 Explore My Work</h3>
 
 <p align="center">
+  <a href="https://nbviewer.org/github/dhaneshbb/" target="_blank">
+    <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="NBViewer Preview" width="120" />
+    <br>
+    <strong>Click here to view my Jupyter Notebooks via NBViewer</strong>
+  </a>
+</p>
+
+<p align="center">
   <a href="https://www.kaggle.com/dhaneshbb/code" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-Notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
@@ -34,15 +42,6 @@
     <img src="https://img.shields.io/badge/Kaggle-Competitions-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://nbviewer.org/github/dhaneshbb/" target="_blank">
-    <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="NBViewer Preview" width="120" />
-    <br>
-    <strong>Click here to view my Jupyter Notebooks via NBViewer</strong>
-  </a>
-</p>
-
 
 ---
 ## Core Competencies
