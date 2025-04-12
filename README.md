@@ -77,7 +77,6 @@
   <div style="margin-top: 1rem;">
     
 **Dhanesh B.B.**  
-[![Email](https://img.shields.io/badge/Email-dhaneshbb5@gmail.com-blue?style=flat&logo=gmail)](mailto:dhaneshbb5@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/dhanesh-b-b-2a8971225)  
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-lightgrey?style=flat&logo=github)](https://github.com/dhaneshbb)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=flat&logo=kaggle)](https://www.kaggle.com/dhaneshbb)
