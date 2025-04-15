@@ -1,8 +1,7 @@
 <!-- Header with Greeting -->
 <h3 align="center">👋 Hello there! I'm Dhanesh B.B.</h3>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Certified+Data+Scientist+(DataMites%2C+IABAC%2C+NASSCOM);Data+Science+Consultant+Intern+%7C+Coordinator" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Certified+Data+Scientist;DataMites+IABAC+nasscom;Data+Science+Consultant+Intern;Coordinator" alt="Typing Animation" />
 </div>
 
 ## Stats 
