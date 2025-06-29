@@ -1,105 +1,144 @@
 # 👋 Hello there! I'm Dhanesh B.B.
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Certified+Data+Scientist;Python+Library+Developer;ML+Solutions+Architect" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Certified+Data+Scientist;DataMites+%7C+IABAC+%7C+NASSCOM;Data+Science+Consultant;Python+Library+Developer;ML+Solutions+Architect" alt="Typing Animation" />
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=dhaneshbb&label=Profile%20views&color=6C63FF&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/dhaneshbb?label=Followers&style=flat&color=6C63FF" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%26%20ML-brightgreen" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%26%20AI-brightgreen" alt="Focus" />
 </div>
+
+### 💼 Professional Experience
+- 📊 **Data Science Consultant Intern** @ Rubixe™ (Sep 2024 - Mar 2025)
+  - Enhanced client satisfaction by 85% through tailored ML solutions
+  - Achieved 30% efficiency gains in client workflows
+- 🏢 **Coordinator** @ Aditya Birla Fashion & Retail Ltd. (Apr 2022 - Mar 2023)
+  - Processed 100+ daily transactions with 99% accuracy
+  - Contributed to 10% improvement in monthly sales targets
 
 ---
 
 ## 🚀 About Me
 
+<img align="right" alt="Data Science GIF" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 🔬 **Data Science Professional** skilled in Python, SQL, and ML frameworks (XGBoost, LightGBM)  
+📊 **Certified Data Scientist** by DataMites, IABAC (Gold), and NASSCOM  
+🎯 **Proven Impact** - Cut manual effort by 40%, accelerated reporting by 25%, improved client efficiency by 30%  
 🐍 **Python Library Developer** - Created InsightfulPy toolkit with 25+ EDA functions (available on PyPI)  
-📊 **Proven Impact** - Reduced manual effort by 40%, enhanced client efficiency by 30%  
-🎓 **Education** - Master's in Economics | Certified by DataMites, IABAC, NASSCOM  
+💼 **Current Role** - Data Science Consultant Intern at Rubixe™ (Sep 2024 - Mar 2025)  
+🎓 **Academic Background** - Master's in Economics from Bangalore University  
+
+### 🎯 Current Focus
+- 🔧 **Expanding InsightfulPy** - Adding advanced statistical analysis features
+- ☁️ **Cloud ML Deployment** - AWS SageMaker and Azure ML expertise
+- 📊 **Big Data Processing** - Hadoop, PySpark, and Kafka implementations
+- 🤝 **Client Solutions** - Delivering ML-driven efficiency improvements at Rubixe™
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhaneshbb&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhaneshbb&layout=compact&theme=radical&hide_border=true&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhaneshbb&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhaneshbb&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhaneshbb&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhaneshbb&theme=redical&hide_border=true&area=true&color=6C63FF&line=6C63FF&point=FFFFFF" alt="Contribution Graph" />
+</div>
+
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Arsenal
 
-### 🐍 Programming & Data Science
+### 🐍 Programming Languages
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />
+</div>
+
+### 🤖 Machine Learning & AI
+<div align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</div>
+
+### 📊 Data Science & Analytics
+<div align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</div>
-
-### 🤖 Machine Learning & Analytics  
-<div align="center">
-  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white" />
-  <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logo=lightgbm&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" />
-</div>
-
-### 🗄️ Databases & Big Data
-<div align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
 </div>
 
 ### ☁️ Cloud & DevOps
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
 </div>
 
-### 📊 Visualization & BI Tools
+### 🗄️ Databases & Big Data
 <div align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+</div>
+
+### 🔧 Tools & Platforms
+<div align="center">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
 </div>
 
 ---
 
-## 💼 Featured Projects
+## 🎯 Specialized Skills
 
 <table align="center">
 <tr>
-<td width="50%">
+<td align="center" width="300">
 
-### 🐍 InsightfulPy - Python EDA Toolkit
-![Python](https://img.shields.io/badge/Python-blue) ![PyPI](https://img.shields.io/badge/PyPI-orange)
-
-Python library with 25+ functions for automated EDA and statistical analysis.
-
-[🔗 View on PyPI](https://pypi.org/user/dhaneshbb)
+### 🧠 Machine Learning
+- **Supervised Learning**: Classification, Regression
+- **Unsupervised Learning**: Clustering, Dimensionality Reduction  
+- **Deep Learning**: CNNs, RNNs, LSTMs, Transformers
+- **Computer Vision**: Object Detection, Image Segmentation
+- **NLP**: Sentiment Analysis, Text Classification, LLMs
 
 </td>
-<td width="50%">
+<td align="center" width="300">
 
-### 🏠 Home Loan Default Prediction
-![XGBoost](https://img.shields.io/badge/XGBoost-red) ![BigData](https://img.shields.io/badge/50M+%20Rows-purple)
-
-XGBoost model achieving 83% accuracy on 50M+ rows dataset.
-
-[🔗 View Project](#)
+### 📈 Data Analytics
+- **Statistical Analysis**: Hypothesis Testing, A/B Testing
+- **Time Series**: Forecasting, Trend Analysis
+- **Business Intelligence**: KPI Development, Dashboards
+- **Data Mining**: Pattern Recognition, Association Rules
+- **Predictive Modeling**: Risk Assessment, Churn Prediction
 
 </td>
 </tr>
@@ -107,63 +146,151 @@ XGBoost model achieving 83% accuracy on 50M+ rows dataset.
 
 ---
 
-## 🏅 Kaggle Achievements
+## 🏆 Achievements & Certifications
+
+<div align="center">
+
+### 🎓 Professional Certifications
+[![DataMites](https://img.shields.io/badge/DataMites-Certified%20Data%20Scientist-success?style=for-the-badge)](https://datamites.com)
+[![IABAC](https://img.shields.io/badge/IABAC-Certified%20Data%20Scientist%20(Grade%20A)-blue?style=for-the-badge)](https://iabac.org)
+[![NASSCOM](https://img.shields.io/badge/NASSCOM-Certified%20Data%20Scientist%20(Gold)-orange?style=for-the-badge)](https://nasscom.in)
+[![365 Careers](https://img.shields.io/badge/365%20Careers-Data%20Science%20Course-green?style=for-the-badge)](https://365datascience.com)
+
+### 🏅 Kaggle Course Badges
+</div>
 
 <p align="center">
-  <a href="https://www.kaggle.com/dhaneshbb"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F163e0f27360ae958da99dde2a68f7e00%2FBadge-46.svg?generation=1727468408101916&alt=media" height="40"/></a>
-  <a href="https://www.kaggle.com/dhaneshbb"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F9c37cceb9f493bb678dd909e988b1456%2FBadge-1.svg?generation=1727462477436270&alt=media" height="40"/></a>
-  <a href="https://www.kaggle.com/dhaneshbb"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2Ff0f20d998814e06ca1be06984a5186b1%2FBadge-2.svg?generation=1727462594476185&alt=media" height="40"/></a>
-  <a href="https://www.kaggle.com/dhaneshbb"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F09e1f99bdf3222934ad7769409ec3f6d%2FBadge-26.svg?generation=1727468059623106&alt=media" height="40"/></a>
-  <a href="https://www.kaggle.com/dhaneshbb"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F1e4546d427340e1495b9ee02261e2dc6%2FBadge-34.svg?generation=1727468126171650&alt=media" height="40"/></a>
-  <a href="https://www.kaggle.com/dhaneshbb"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F7567026dd0c594f1193b49a98a976056%2FBadge-35.svg?generation=1727468213893504&alt=media" height="40"/></a>
-  <a href="https://www.kaggle.com/dhaneshbb"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F2df508502fba7fc8937f3847e46b8ec4%2FBadge-29.svg?generation=1727468233931525&alt=media" height="40"/></a>
-  <a href="https://www.kaggle.com/dhaneshbb"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F28e0e70842ce6972f4d68f5b6ecd549a%2FBadge-12.svg?generation=1727462988946700&alt=media" height="40"/></a>
-  <a href="https://www.kaggle.com/dhaneshbb"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F9ca07715376e5949f99c842605c3ee60%2FBadge-18.svg?generation=1727467872971674&alt=media" height="40"/></a>
-  <a href="https://www.kaggle.com/dhaneshbb"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F059c9b5e8bad980032971b42cb35cb10%2FBadge-44.svg?generation=1727468322667890&alt=media" height="40"/></a>
-  <a href="https://www.kaggle.com/dhaneshbb"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2Fbac00bdcf5aa52c077bef4d95da882f3%2FBadge-37.svg?generation=1727468352009252&alt=media" height="40"/></a>
-  <a href="https://www.kaggle.com/dhaneshbb"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F59be06dc5fa3103f7f3d4064730449a4%2FBadge-38.svg?generation=1727468372542689&alt=media" height="40"/></a>
-  <a href="https://www.kaggle.com/dhaneshbb"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F7497cc64368fa8d323dbd46eff514e25%2FBadge-39.svg?generation=1727468387653485&alt=media" height="40"/></a>
-  <a href="https://www.kaggle.com/dhaneshbb"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2Fbd815f5d633db594d07a22a6e3f1067e%2FBadge-43.svg?generation=1727468286042063&alt=media" height="40"/></a>
+  <a href="https://www.kaggle.com/dhaneshbb"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F163e0f27360ae958da99dde2a68f7e00%2FBadge-46.svg?generation=1727468408101916&alt=media" height="50"/></a>
+  <a href="https://www.kaggle.com/dhaneshbb"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F9c37cceb9f493bb678dd909e988b1456%2FBadge-1.svg?generation=1727462477436270&alt=media" height="50"/></a>
+  <a href="https://www.kaggle.com/dhaneshbb"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2Ff0f20d998814e06ca1be06984a5186b1%2FBadge-2.svg?generation=1727462594476185&alt=media" height="50"/></a>
+  <a href="https://www.kaggle.com/dhaneshbb"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F09e1f99bdf3222934ad7769409ec3f6d%2FBadge-26.svg?generation=1727468059623106&alt=media" height="50"/></a>
+  <a href="https://www.kaggle.com/dhaneshbb"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F1e4546d427340e1495b9ee02261e2dc6%2FBadge-34.svg?generation=1727468126171650&alt=media" height="50"/></a>
+  <a href="https://www.kaggle.com/dhaneshbb"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F7567026dd0c594f1193b49a98a976056%2FBadge-35.svg?generation=1727468213893504&alt=media" height="50"/></a>
+  <a href="https://www.kaggle.com/dhaneshbb"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F2df508502fba7fc8937f3847e46b8ec4%2FBadge-29.svg?generation=1727468233931525&alt=media" height="50"/></a>
+  <a href="https://www.kaggle.com/dhaneshbb"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F28e0e70842ce6972f4d68f5b6ecd549a%2FBadge-12.svg?generation=1727462988946700&alt=media" height="50"/></a>
+  <a href="https://www.kaggle.com/dhaneshbb"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F9ca07715376e5949f99c842605c3ee60%2FBadge-18.svg?generation=1727467872971674&alt=media" height="50"/></a>
+  <a href="https://www.kaggle.com/dhaneshbb"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F059c9b5e8bad980032971b42cb35cb10%2FBadge-44.svg?generation=1727468322667890&alt=media" height="50"/></a>
+  <a href="https://www.kaggle.com/dhaneshbb"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2Fbac00bdcf5aa52c077bef4d95da882f3%2FBadge-37.svg?generation=1727468352009252&alt=media" height="50"/></a>
+  <a href="https://www.kaggle.com/dhaneshbb"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F59be06dc5fa3103f7f3d4064730449a4%2FBadge-38.svg?generation=1727468372542689&alt=media" height="50"/></a>
+  <a href="https://www.kaggle.com/dhaneshbb"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F7497cc64368fa8d323dbd46eff514e25%2FBadge-39.svg?generation=1727468387653485&alt=media" height="50"/></a>
+  <a href="https://www.kaggle.com/dhaneshbb"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2Fbd815f5d633db594d07a22a6e3f1067e%2FBadge-43.svg?generation=1727468286042063&alt=media" height="50"/></a>
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 💼 Featured Projects
 
 <div align="center">
-  <a href="https://linkedin.com/in/dhaneshbb/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/dhaneshbb" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.kaggle.com/dhaneshbb" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Follow-blue?style=for-the-badge&logo=kaggle" />
-  </a>
-  <a href="https://pypi.org/user/dhaneshbb" target="_blank">
-    <img src="https://img.shields.io/badge/PyPI-Packages-blue?style=for-the-badge&logo=pypi" />
-  </a>
+
+### 🔥 Recent Projects
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🐍 InsightfulPy - Python EDA Toolkit
+![Python](https://img.shields.io/badge/Python-blue) ![PyPI](https://img.shields.io/badge/PyPI-orange) ![EDA](https://img.shields.io/badge/EDA-green)
+
+Comprehensive Python library with 25+ functions for automated exploratory data analysis and statistical summaries.
+
+**Key Features:**
+- Automated outlier detection
+- Statistical hypothesis testing
+- TableOne integration
+- ResearchPy compatibility
+
+[🔗 View on PyPI](https://pypi.org/user/dhaneshbb) | [📊 GitHub Repo](#)
+
+</td>
+<td width="50%">
+
+#### 🏠 Home Loan Default Prediction  
+![XGBoost](https://img.shields.io/badge/XGBoost-red) ![BigData](https://img.shields.io/badge/50M+%20Rows-purple) ![Finance](https://img.shields.io/badge/Finance-blue)
+
+XGBoost model achieving 83% accuracy on 50M+ rows, reducing false positives by 22%.
+
+**Key Features:**
+- 25+ engineered features
+- 70-80% memory optimization
+- 1,200+ hours manual review elimination
+- Bureau balance data processing (27M rows)
+
+[🔗 View Project](#) | [📊 Demo](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🚗 Auto Price Prediction
+![Lasso](https://img.shields.io/badge/Lasso-yellow) ![PCA](https://img.shields.io/badge/PCA-green) ![Regression](https://img.shields.io/badge/R²=0.917-blue)
+
+Predictive modeling for vehicle prices using Lasso Regression with 91.7% accuracy.
+
+**Key Features:**
+- PCA (95% variance retention)
+- IQR-based outlier handling
+- $6K-$7.3K luxury brand premiums identified
+- Inventory pricing strategy insights
+
+[🔗 View Project](#) | [📊 Demo](#)
+
+</td>
+<td width="50%">
+
+#### 📊 AutoCSV Profiler Suite
+![Python](https://img.shields.io/badge/Python-blue) ![Sweetviz](https://img.shields.io/badge/Sweetviz-orange) ![Automation](https://img.shields.io/badge/Automation-green)
+
+Dependency-isolated CSV analysis toolkit resolving library conflicts for parallel EDA execution.
+
+**Key Features:**
+- 5+ EDA tools integration
+- Virtual environment management
+- Automated batch processing
+- 100+ column dataset handling
+
+[🔗 View Project](#) | [📊 Demo](#)
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📚 Knowledge Hub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhaneshbb&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+
+### 🔗 Explore My Work
+
+<p>
+  <a href="https://nbviewer.org/github/dhaneshbb/" target="_blank">
+    <img src="https://img.shields.io/badge/📓%20Jupyter%20Notebooks-View%20on%20NBViewer-orange?style=for-the-badge&logo=jupyter" />
+  </a>
+</p>
+
+<p>
+  <a href="https://www.kaggle.com/dhaneshbb/code" target="_blank">
+    <img src="https://img.shields.io/badge/📊%20Kaggle-Notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/dhaneshbb/competitions" target="_blank">
+    <img src="https://img.shields.io/badge/🏆%20Kaggle-Competitions-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+</p>
+
+### 📖 Featured Work & Contributions
+- 🐍 **InsightfulPy** - Python EDA toolkit with 25+ statistical functions (PyPI)
+- 📊 **AutoCSV Profiler Suite** - Automated data profiling with virtual environments  
+- 🎯 **ML Model Optimization** - Achieved 83% accuracy on 50M+ row datasets
+- 📈 **Client Impact** - 30% efficiency improvements through ML solutions
+
 </div>
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhaneshbb&theme=radical&hide_border=true&area=true&color=6C63FF&line=6C63FF&point=FFFFFF" alt="Contribution Graph" />
-</div>
-
----
-
-## 📊 Detailed Analytics
+## 📊 Contribution Metrics
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhaneshbb&theme=radical" />
@@ -174,27 +301,105 @@ XGBoost model achieving 83% accuracy on 50M+ rows dataset.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhaneshbb&theme=radical" />
 </div>
 
+---
+
+## 🎯 Current Learning Path
+
+<table align="center">
+<tr>
+<td align="center" width="400">
+
+### 🔍 Currently Exploring
+
+- 🔧 **Advanced Python Development**
+  - Expanding InsightfulPy library features
+  - Package optimization and distribution
+  - Advanced statistical functions
+
+- ☁️ **Cloud ML Platforms**
+  - AWS SageMaker deployment
+  - Azure ML integration
+  - Scalable model serving
+
+- 📊 **Big Data Technologies**
+  - Advanced PySpark applications
+  - Kafka for real-time processing
+  - Hadoop ecosystem optimization
+
+</td>
+<td align="center" width="400">
+
+### 📚 Learning Resources
+
+- 📖 **Current Focus**: Advanced ML algorithms and cloud deployment
+- 🎓 **Continuous Learning**: Kaggle courses and competitions
+- 🏆 **Achievements**: Multiple Kaggle certifications in ML, SQL, Python
+- 🎯 **Next Goals**: Advanced cloud certifications and open-source contributions
+
+### 💡 Development Goals
+
+- 🔧 Expanding InsightfulPy with advanced features
+- 📊 Contributing to major Python data science libraries  
+- 🎤 Sharing knowledge through technical content
+- 🤝 Mentoring aspiring data scientists
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌟 Let's Connect & Collaborate
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhaneshbb&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhaneshbb&theme=radical" />
+
+### 🤝 Open to Opportunities
+
+🔍 **Currently**: Data Science Consultant Intern at Rubixe™  
+💼 **Available for**: Full-time Data Science roles, Freelance projects, Collaborations  
+🎯 **Interested in**: ML Engineering, Python development, Open-source contributions  
+
+### 📬 Contact Information
+
+<p>
+  <a href="https://linkedin.com/in/dhaneshbb/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/dhaneshbb" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.kaggle.com/dhaneshbb" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Follow-blue?style=for-the-badge&logo=kaggle" />
+  </a>
+</p>
+
+<p>
+  <a href="mailto:dhaneshbb5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://pypi.org/user/dhaneshbb" target="_blank">
+    <img src="https://img.shields.io/badge/PyPI-Packages-blue?style=for-the-badge&logo=pypi" />
+  </a>
+  <a href="https://gravatar.com/dhaneshbb" target="_blank">
+    <img src="https://img.shields.io/badge/Gravatar-Profile-orange?style=for-the-badge&logo=gravatar" />
+  </a>
+</p>
+
+### 💬 Let's Discuss
+*"Turning complex data into actionable insights, one algorithm at a time."* - Ready to solve your data challenges!
+
 </div>
 
 ---
 
-## 🎯 Profile Analytics
-
 <div align="center">
-  <img src="https://metrics.lecoq.io/dhaneshbb?template=classic&config.timezone=Asia%2FKolkata&config.animated=true" />
-</div>
 
----
+### 🙏 Thank You for Visiting!
 
-## 🌟 Thank You for Visiting!
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Thanks+for+checking+out+my+profile!;Let's+build+something+amazing+together!;Data+%2B+AI+%3D+Infinite+Possibilities" alt="Thank You Message" />
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+build+something+amazing!;⭐+Star+my+repositories!" alt="Thank You Message" />
-</div>
+**Don't forget to ⭐ star repositories you find interesting!**
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Happy%20Coding!&fontSize=30&fontColor=fff&animation=twinkling" />
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
 </div>
