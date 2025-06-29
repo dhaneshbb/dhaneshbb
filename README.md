@@ -110,15 +110,11 @@
 
 ## 💼 Featured Projects
 
-<div align="center">
-
-### 🔥 Recent Projects
-
-<table>
+<table align="center">
 <tr>
 <td width="50%">
 
-#### 🐍 InsightfulPy - Python EDA Toolkit
+### 🐍 InsightfulPy - Python EDA Toolkit
 ![Python](https://img.shields.io/badge/Python-blue) ![PyPI](https://img.shields.io/badge/PyPI-orange) ![EDA](https://img.shields.io/badge/EDA-green)
 
 Comprehensive Python library with 25+ functions for automated exploratory data analysis and statistical summaries.
@@ -129,12 +125,12 @@ Comprehensive Python library with 25+ functions for automated exploratory data a
 - TableOne integration
 - ResearchPy compatibility
 
-[🔗 View on PyPI](https://pypi.org/user/dhaneshbb) | [📊 GitHub Repo](#)
+[🔗 View on PyPI](https://pypi.org/user/dhaneshbb) | [📊 GitHub Repo](https://github.com/dhaneshbb/insightfulpy)
 
 </td>
 <td width="50%">
 
-#### 📊 AutoCSV Profiler Suite
+### 📊 AutoCSV Profiler Suite
 ![Python](https://img.shields.io/badge/Python-blue) ![Sweetviz](https://img.shields.io/badge/Sweetviz-orange) ![Automation](https://img.shields.io/badge/Automation-green)
 
 Dependency-isolated CSV analysis toolkit resolving library conflicts for parallel EDA execution.
@@ -145,14 +141,14 @@ Dependency-isolated CSV analysis toolkit resolving library conflicts for paralle
 - Automated batch processing
 - 100+ column dataset handling
 
-[🔗 View Project](#) | [📊 Demo](#)
+[🔗 View Project](https://github.com/dhaneshbb/AutoCSV-Profiler-Suite) | [📊 Demo](https://drive.google.com/file/d/1tBFFC_X-lsBJ9PQv4aLpbkTUde1OCtfu/view?usp=drive_link)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-#### 🏠 Home Loan Default Prediction  
+### 🏠 Home Loan Default Prediction  
 ![XGBoost](https://img.shields.io/badge/XGBoost-red) ![BigData](https://img.shields.io/badge/50M+%20Rows-purple) ![Finance](https://img.shields.io/badge/Finance-blue)
 
 XGBoost model achieving 83% accuracy on 50M+ rows, reducing false positives by 22%.
@@ -163,12 +159,12 @@ XGBoost model achieving 83% accuracy on 50M+ rows, reducing false positives by 2
 - 1,200+ hours manual review elimination
 - Bureau balance data processing (27M rows)
 
-[🔗 View Project](#) | [📊 Demo](#)
+[🔗 View Project](https://github.com/dhaneshbb/HomeLoanDef) | [📊 Demo](https://github.com/dhaneshbb/HomeLoanDef/blob/main/reports/Final%20Report.md)
 
 </td>
 <td width="50%">
 
-#### 🚗 Auto Price Prediction
+### 🚗 Auto Price Prediction
 ![Lasso](https://img.shields.io/badge/Lasso-yellow) ![PCA](https://img.shields.io/badge/PCA-green) ![Regression](https://img.shields.io/badge/R²=0.917-blue)
 
 Predictive modeling for vehicle prices using Lasso Regression with 91.7% accuracy.
@@ -179,13 +175,45 @@ Predictive modeling for vehicle prices using Lasso Regression with 91.7% accurac
 - $6K-$7.3K luxury brand premiums identified
 - Inventory pricing strategy insights
 
-[🔗 View Project](#) | [📊 Demo](#)
+[🔗 View Project](https://github.com/dhaneshbb/AutoPricePred) | [📊 Demo](https://github.com/dhaneshbb/AutoPricePred/blob/main/report/Final%20Report.md)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 👥 INX Employee Performance Analysis
+![XGBoost](https://img.shields.io/badge/XGBoost-red) ![HR Analytics](https://img.shields.io/badge/HR%20Analytics-green) ![SHAP](https://img.shields.io/badge/SHAP-purple)
+
+XGBoost model with 92.5% accuracy analyzing 1,200+ employee records to identify performance drivers.
+
+**Key Features:**
+- SHAP analysis (0.494 environment satisfaction impact)
+- Attrition reduction strategies (10% improvement)
+- Predictive hiring model (20% accuracy boost)
+- Quarterly survey recommendations
+
+[🔗 View Project](https://github.com/dhaneshbb/INX-Employee-Performance-Analysis) | [📊 Demo](https://github.com/dhaneshbb/INX-Employee-Performance-Analysis/blob/main/project%20summary/Summary/summary.md)
+
+</td>
+<td width="50%">
+
+### 📈 FicZon Sales Effectiveness
+![XGBoost](https://img.shields.io/badge/XGBoost-red) ![Sales](https://img.shields.io/badge/Sales-blue) ![Lead Scoring](https://img.shields.io/badge/Lead%20Scoring-orange)
+
+Automated lead scoring system reducing manual review time by 30% through ML-driven prioritization.
+
+**Key Features:**
+- GridSearchCV optimization (6.89% overfitting reduction)
+- Lead trend analysis (20.4% Monday influx)
+- Peak conversion insights (46% November conversions)
+- Targeted campaign scheduling
+
+[🔗 View Project](https://github.com/dhaneshbb/FicZon-Sales-Effectiveness) | [📊 Demo](https://github.com/dhaneshbb/FicZon-Sales-Effectiveness/blob/main/report/Report.md)
 
 </td>
 </tr>
 </table>
-
-</div>
 
 ## 📊 Contribution Metrics
 
@@ -232,7 +260,7 @@ Predictive modeling for vehicle prices using Lasso Regression with 91.7% accurac
 ### 📬 Contact Information
 
 <p>
-  <a href="https://linkedin.com/in/dhanesh-b-b-2a8971225" target="_blank">
+  <a href="https://www.linkedin.com/in/dhaneshbb/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/dhaneshbb" target="_blank">
@@ -244,11 +272,8 @@ Predictive modeling for vehicle prices using Lasso Regression with 91.7% accurac
 </p>
 
 <p>
-  <a href="mailto:your.email@domain.com">
+  <a href="mailto:dhaneshbb5@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" />
   </a>
 </p>
 
