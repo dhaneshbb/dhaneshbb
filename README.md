@@ -185,8 +185,8 @@
   <strong>Don't forget to star repositories you find interesting!</strong>
 </p>
 
-![Wave]([https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=fadeIn))
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=fadeIn" />
 </div>
+
 
 
