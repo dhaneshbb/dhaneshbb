@@ -1,5 +1,5 @@
 <!-- Header with Greeting -->
-<h3 align="center">👋 Hello there! I'm Dhanesh B.B.</h3>
+<h3 align="center">Hello there! I'm Dhanesh B.B.</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Certified+Data+Scientist;By+DataMites+IABAC+NASSCOM;Data+Science+Consultant+Intern;Coordinator" alt="Typing Animation" />
@@ -10,23 +10,21 @@
   <img src="https://img.shields.io/github/followers/dhaneshbb?label=Followers&style=flat&color=6C63FF" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Focus-Data%20Science%20%26%20AI-brightgreen" alt="Focus" />
 </div>
-		       
 
-## 🚀 About Me
+## About Me
 
 <img align="right" alt="Data Science GIF" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-🔬 **Data Science Professional** skilled in Python, SQL, and ML frameworks (XGBoost, LightGBM)  
-📊 **Certified Data Scientist** by DataMites, IABAC (Gold), and NASSCOM  
-🐍 **Python Library Developer** - Created InsightfulPy toolkit with 25+ EDA functions (available on PyPI)  
+**Data Science Professional** skilled in Python, SQL, and ML frameworks (XGBoost, LightGBM)  
+**Certified Data Scientist** by DataMites, IABAC (Gold), and NASSCOM  
+**Python Library Developer** - Created InsightfulPy toolkit with 25+ EDA functions (available on PyPI)  
 
-### 🎯 Current Focus
-- 🔧 **Expanding InsightfulPy** - Adding advanced statistical analysis features
-- ☁️ **Cloud ML Deployment** - AWS SageMaker and Azure ML expertise
-- 📊 **Big Data Processing** - Hadoop, PySpark, and Kafka implementations 
+### Current Focus
+- **Expanding InsightfulPy** - Adding advanced statistical analysis features
+- **Cloud ML Deployment** - AWS SageMaker and Azure ML expertise
+- **Big Data Processing** - Hadoop, PySpark, and Kafka implementations 
 
-
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhaneshbb&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
@@ -41,8 +39,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhaneshbb&theme=github-light&hide_border=true&area=true&color=6C63FF&line=6C63FF&point=333333" alt="Contribution Graph" />
 </div>
 
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -75,7 +72,7 @@
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
 </div>
 
-## 📊 Contribution Metrics
+## Contribution Metrics
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhaneshbb&theme=default" />
@@ -93,16 +90,15 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhaneshbb/dhaneshbb/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dhaneshbb/dhaneshbb/output/github-contribution-grid-snake.svg">
 </picture>
-   
 
-## 🌟 Let's Connect & Collaborate
+## Let's Connect & Collaborate
 
 <div align="center">
 
-### 🤝 Open to Opportunities
+### Open to Opportunities
 
-🔍 **Seeking**: Data Science, ML Engineering, AI Research roles  
-💼 **Available for**: Consulting, Freelance projects, Collaborations   
+**Seeking**: Data Science, ML Engineering, AI Research roles  
+**Available for**: Consulting, Freelance projects, Collaborations   
 
 ### Explore My Work
 
@@ -124,7 +120,7 @@
   </a>
 </p>
 
-### 📬 Contact Information
+### Contact Information
 
 <p>
   <a href="https://www.linkedin.com/in/dhaneshbb/" target="_blank">
@@ -144,7 +140,7 @@
   </a>
 </p>
 
-### 💬 Let's Discuss
+### Let's Discuss
 *"Data is the new oil, but analytics is the refinery."* - Ready to transform your data into valuable insights!
 
 </div>
@@ -153,16 +149,12 @@
 
 <div align="center">
 
-### 🙏 Thank You for Visiting!
+### Thank You for Visiting!
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Thanks+for+checking+out+my+profile!;Let's+build+something+amazing+together!;Data+%2B+AI+%3D+Infinite+Possibilities" alt="Thank You Message" />
 
-**Don't forget to ⭐ star repositories you find interesting!**
+**Don't forget to star repositories you find interesting!**
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
-
-
-
-
