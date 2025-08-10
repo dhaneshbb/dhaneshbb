@@ -228,13 +228,11 @@ Automated lead scoring system reducing manual review time by 30% through ML-driv
 
 ## Contribution Activity
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhaneshbb/dhaneshbb/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhaneshbb/dhaneshbb/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dhaneshbb/dhaneshbb/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhaneshbb/dhaneshbb/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhaneshbb/dhaneshbb/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dhaneshbb/dhaneshbb/output/github-contribution-grid-snake.svg">
+</picture>
    
 
 ## 🌟 Let's Connect & Collaborate
@@ -304,4 +302,5 @@ Automated lead scoring system reducing manual review time by 30% through ML-driv
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
+
 
