@@ -84,27 +84,3 @@ jobs:
           keep_history: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      # Create release with all animations (optional)
-      - name: Create Release
-        uses: softprops/action-gh-release@v1
-        if: github.ref == 'refs/heads/main'
-        with:
-          tag_name: snake-animations-${{ github.run_number }}
-          name: Snake Animations Release ${{ github.run_number }}
-          body: |
-            🐍 Advanced Snake Animations Generated
-            
-            Available animations:
-            - Standard Light/Dark themes
-            - Ocean themed (animated GIF)
-            - Rainbow themed (animated GIF)  
-            - Neon/Cyberpunk themed (animated GIF)
-            - Minimalist theme
-            - High contrast theme
-            
-            Updated: ${{ github.event.head_commit.timestamp }}
-          files: |
-            dist/*
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
