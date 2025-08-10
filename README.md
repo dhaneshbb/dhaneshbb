@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&animation=fadeIn" />
-</div>
-
 <!-- Header with Greeting -->
 <h3 align="center">👋 Hello there! I'm Dhanesh B.B.</h3>
 
@@ -302,5 +298,6 @@ Automated lead scoring system reducing manual review time by 30% through ML-driv
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
+
 
 
