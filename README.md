@@ -41,19 +41,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=999999999&color=3DDC84&center=true&vCenter=true&width=600&lines=Get+In+Touch" alt="Get In Touch" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/dhaneshbb/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:dhaneshbb5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=999999999&color=3DDC84&center=true&vCenter=true&width=600&lines=Let's+Discuss" alt="Let's Discuss" />
 </p>
 
@@ -67,11 +54,7 @@
 </div>
 
 <div align="center">
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=999999999&color=3DDC84&center=true&vCenter=true&width=600&lines=Thank+You+for+Visiting!" alt="Thank You for Visiting!" />
-</p>
-
+  
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Thanks+for+checking+out+my+profile!;Let's+build+something+amazing+together!;Data+%2B+AI+%3D+Infinite+Possibilities" alt="Thank You Message" />
 
 <p align="center">
