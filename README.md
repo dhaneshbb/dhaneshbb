@@ -14,15 +14,6 @@
 
 <br>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhaneshbb&layout=compact&theme=dracula&hide_border=false&langs_count=8&hide_title=false">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhaneshbb&layout=compact&theme=default&hide_border=false&langs_count=8&hide_title=false">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhaneshbb&layout=compact&theme=default&hide_border=false&langs_count=8&hide_title=false" alt="Most Used Languages" loading="lazy">
-  </picture>
-</div>
-
-<br>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=999999999&color=3DDC84&center=true&vCenter=true&width=600&lines=Explore+My+Work" alt="Explore My Work" />
@@ -39,6 +30,16 @@
 <a href="https://nbviewer.org/github/dhaneshbb/" target="_blank"><img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="NBViewer Preview" width="120" hspace="30" /></a>
 <a href="https://www.kaggle.com/dhaneshbb" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="Kaggle Profile" width="120" hspace="30" /></a>
 </p>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhaneshbb&layout=compact&theme=dracula&hide_border=false&langs_count=8&hide_title=false">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhaneshbb&layout=compact&theme=default&hide_border=false&langs_count=8&hide_title=false">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhaneshbb&layout=compact&theme=default&hide_border=false&langs_count=8&hide_title=false" alt="Most Used Languages" loading="lazy">
+  </picture>
+</div>
+
+<br>
 
 <p align="center" style="font-family: 'Fira Code', monospace; color: #888;">
   <em>"Data is the new oil, but analytics is the refinery."</em><br>
