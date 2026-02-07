@@ -40,10 +40,6 @@
 <a href="https://www.kaggle.com/dhaneshbb" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="Kaggle Profile" width="120" hspace="30" /></a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=999999999&color=3DDC84&center=true&vCenter=true&width=600&lines=Let's+Discuss" alt="Let's Discuss" />
-</p>
-
 <p align="center" style="font-family: 'Fira Code', monospace; color: #888;">
   <em>"Data is the new oil, but analytics is the refinery."</em><br>
   Ready to transform your data into valuable insights!
