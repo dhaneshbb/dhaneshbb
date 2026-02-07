@@ -9,14 +9,6 @@
   </picture>
 </div>
 <br>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dhaneshbb&layout=compact&langs_count=20&theme=dracula&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dhaneshbb&layout=compact&langs_count=20&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhaneshbb&layout=compact&langs_count=20&hide_border=true" alt="Most Used Languages" loading="lazy">
-  </picture>
-</div>
-<br>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=999999999&color=3DDC84&center=true&vCenter=true&width=600&lines=Explore+My+Work" alt="Explore My Work" />
 </p>
