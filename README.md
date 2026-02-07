@@ -31,6 +31,11 @@
 <a href="https://www.kaggle.com/dhaneshbb" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="Kaggle Profile" width="120" hspace="30" /></a>
 </p>
 
+<p align="center" style="font-family: 'Fira Code', monospace; color: #888;">
+  <em>"Data is the new oil, but analytics is the refinery."</em><br>
+  Ready to transform your data into valuable insights!
+</p>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhaneshbb&layout=compact&theme=dracula&hide_border=false&langs_count=8&hide_title=false">
@@ -40,11 +45,6 @@
 </div>
 
 <br>
-
-<p align="center" style="font-family: 'Fira Code', monospace; color: #888;">
-  <em>"Data is the new oil, but analytics is the refinery."</em><br>
-  Ready to transform your data into valuable insights!
-</p>
 
 
 
